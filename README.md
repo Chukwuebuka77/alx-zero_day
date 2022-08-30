@@ -1,1 +1,3 @@
 My first readme
+for ALX ZERO DAY
+NECESSARY FIX MADE
